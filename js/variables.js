@@ -8,7 +8,7 @@ console.log('Sukurti 3 kintamuosius su teksto tipo reikšmėmis');
 
 const manoKojos = 2;
 const metai = 75;
-const gimimoMetai = 1865;
+const gimimoMetai = 1855;
 
 console.log( manoKojos );
 console.log( metai );
