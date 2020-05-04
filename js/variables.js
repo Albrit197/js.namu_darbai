@@ -8,7 +8,7 @@ console.log('Sukurti 3 kintamuosius su teksto tipo reikšmėmis');
 
 const manoKojos = 2;
 const metai = 75;
-const gimimoMetai = 1855;
+let gimimoMetai = 1855;
 
 console.log( manoKojos );
 console.log( metai );
@@ -56,6 +56,30 @@ console.log('--------------------------');
 
 const aplankytosSalys = [ ' airija ', ' anglija ', ' ispanija ', ' jav ', ' italija '];
 const automobiliuModeliai = [ ' seat ', ' audi ', ' toyota ', ' tesla ', ' ferrari ',];
+
+console.log( aplankytosSalys );
+console.log( automobiliuModeliai );
+
+
+
+gimimoMetai = 1854;
+console.log( gimimoMetai );
+
+gimimoMetai = 174;
+console.log( gimimoMetai );
+
+
+//  1. Susumuoti visus skaičiaus tipo kintamuosius
+//    a.Rezultatą išvesti į console
+
+
+
+
+
+
+
+
+
 
 
 
